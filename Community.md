@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Mitul Gupta</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/mitulgupta72</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/mitul-gupta-1a34791b2/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>LNCT</td>
+  </tr>
+</table>
+
